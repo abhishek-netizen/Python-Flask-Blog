@@ -1,5 +1,6 @@
 # Python-Flask-Blog
-This is the Blog i created in the name  "Blessed|MLP" using Flask , HTML, CSS, Bootstrap, Jinja2
+This blog is created using Flask-Framework, HTML, CSS, Bootstrap, Jinja2
+This blog can be Deployable in the name of 'Blessed ml practitioner'
 
 ![Test Image 1](Screenshot_(63).png)
 
